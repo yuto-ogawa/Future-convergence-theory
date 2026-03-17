@@ -62,8 +62,8 @@ Complete archive of DOI and Arweave records.
 The two most recent theoretical papers are included
 directly in this repository.
 
-• [The Λ-System as a Premise-Update OS](Theory/past-papers/paper-81.md)  
-• [The Social Inevitability of Personal Irreducibility in the Age of AI](Theory/past-papers/paper-80.md)
+• [The Λ-System as a Premise-Update OS](Theory/papers/paper-81.md)  
+• [The Social Inevitability of Personal Irreducibility in the Age of AI](Theory/papers/paper-80.md)
 
 ---
 
