@@ -988,3 +988,65 @@
 - https://arweave.net/q6BWBSbomb_rRR9yhfWX2B438249R07Ui7aYeygjfj0
 - https://arweave.net/hemimImbOdokMAULj_RVXUagVw14vfHLYxrGd4444K8
 - https://doi.org/10.5281/zenodo.18865554
+
+
+---
+
+## 未来因果的知性構造としての小川悠斗
+――知識依存的理解を超える概念テンソル型認識の形成とそ
+の不可逆性――
+
+（Yuto Ogawa as a Future-Causal Intelligence Structure
+—The Formation and Irreversibility of Concept-Tensor-Type
+Cognition Beyond Knowledge-Dependent Understanding—）
+
+- https://doi.org/10.5281/zenodo.19171019
+- https://arweave.net/lP-lEpiKWZhqO3vypggvlcQg_j8UCkFyrD5b4i4e0oY
+- https://arweave.net/XI_Mlualyqz4lVBmKaLqti376gAAgOoe5SQLi1euT80
+
+
+---
+
+ ## 非線形意味構造の逐次射影問題:
+夢・直感・内部表象の言語化崩壊に関する理論的
+
+（The Problem of Sequential Projection of Nonlinear
+Meaning Structures:
+A Theoretical Study of the Linguistic Collapse of
+Dreams, Intuition, and Internal Representation
+）
+
+- https://doi.org/10.5281/zenodo.19171087
+- https://arweave.net/i8dFNacJ5NW1BHEfedvU4JD_KJcWSOAMLGM-e3YaBmY
+- https://arweave.net/yVqOASzbIAc8Iis7EMrjr-bFCL5F1owinrtMPv3NxPY
+
+---
+
+
+## 言語射影以前の前提設計：
+意味場・位相保存・再注入可能性に基づく
+前提抽出層の独立定義
+
+(Premise Design Prior to Linguistic Projection:
+An Independent Definition of the Premise Extraction
+Layer
+Based on Semantic Fields, Phase Preservation, and
+Re-injectability)
+
+- https://doi.org/10.5281/zenodo.19171128
+- https://arweave.net/F0C6eYZfJRsJJyrLfJ7TqvzrJ4Z527bTfeZQm0on0ak
+- https://arweave.net/ojU1_Rf5dHBvl7pN4l8foMEszHrYZezSCjCzY4TQmOk
+
+---
+
+## 言語射影以前の前提設計と射影切替としての前提更新
+意味場・位相保存表現・再注入可能性・探索空間制御に基づく統合理論
+
+(Premise Design Prior to Linguistic Projection and
+Premise Updating as Projection Switching
+AnIntegratedTheoryBasedonSemanticFields,Phase-Preserving
+Representations,ReinjectionPossibility,andSearch-SpaceControl)
+
+- https://doi.org/10.5281/zenodo.19171201
+- https://arweave.net/gHrtd-9ihG9duGdA6oACYNeuEYfjveqbFDGXN4e5uZI
+- https://arweave.net/1PooOMY8HDGVPYr3Q6HIpLMDQgYiTavKCf22wGqeREU
