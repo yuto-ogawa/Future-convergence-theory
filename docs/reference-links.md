@@ -1008,7 +1008,7 @@ Cognition Beyond Knowledge-Dependent Understanding—）
 ---
 
  ## 非線形意味構造の逐次射影問題:
-夢・直感・内部表象の言語化崩壊に関する理論的
+夢・直感・内部表象の言語化崩壊に関する理論的研究
 
 （The Problem of Sequential Projection of Nonlinear
 Meaning Structures:
@@ -1050,3 +1050,17 @@ Representations,ReinjectionPossibility,andSearch-SpaceControl)
 - https://doi.org/10.5281/zenodo.19171201
 - https://arweave.net/gHrtd-9ihG9duGdA6oACYNeuEYfjveqbFDGXN4e5uZI
 - https://arweave.net/1PooOMY8HDGVPYr3Q6HIpLMDQgYiTavKCf22wGqeREU
+
+---
+
+## 制約座標観測層と未来整合性評価
+――違和感検出・自己非例外化・意味テンソル形成に基づく前提更新前段OSの定義――
+
+
+ (The Constraint-Coordinate Observation Layer and Future-Alignment Evaluation
+---A Definition of the Pre-Premise-Update OS Based on Discomfort Detection,
+Self-Non-Exceptionality, and Meaning-Tensor Formation---)
+
+- https://doi.org/10.5281/zenodo.19188033
+- https://arweave.net/EKbkZjjr65jPWVF-75q2VoYyedrJnlUZ3FieEeSZJSQ
+- https://arweave.net/wAFkIAbtuyg2KLxCn0Yut3KzXwzzSFPPbVNb40d-9gA
