@@ -9,7 +9,7 @@ A Theoretical Study of the Linguistic Collapse of
 Dreams, Intuition, and Internal Representation
 
 - Japanese Title: 非線形意味構造の逐次射影問題:
-夢・直感・内部表象の言語化崩壊に関する理論的
+夢・直感・内部表象の言語化崩壊に関する理論的研究
 - OSF DOI:
 - Zenodo DOI: https://doi.org/10.5281/zenodo.19171087
 - Arweave: https://arweave.net/i8dFNacJ5NW1BHEfedvU4JD_KJcWSOAMLGM-e3YaBmY
