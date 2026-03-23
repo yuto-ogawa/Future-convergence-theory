@@ -1064,3 +1064,18 @@ Self-Non-Exceptionality, and Meaning-Tensor Formation---)
 - https://doi.org/10.5281/zenodo.19188033
 - https://arweave.net/EKbkZjjr65jPWVF-75q2VoYyedrJnlUZ3FieEeSZJSQ
 - https://arweave.net/wAFkIAbtuyg2KLxCn0Yut3KzXwzzSFPPbVNb40d-9gA
+
+
+---
+
+## 意味テンソル場としての未来収束理論：
+制約干渉幾何と時間因果の統一的枠組み
+
+(Future Convergence Theory as a Semantic Tensor Field:
+A Unified Geometric Framework of Constraint
+Interference and Temporal Causality)
+
+
+- https://doi.org/10.5281/zenodo.19192933
+- https://arweave.net/S8i1uAc0DiKmVp1nEUrDZ2VhXsiESYtEIHFINYC63Eg
+- https://arweave.net/LUnCZfYsywbcOYcwVXdXDwHnYAZyA7iJgSw2J0ceueM
