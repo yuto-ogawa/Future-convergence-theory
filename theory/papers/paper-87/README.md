@@ -14,7 +14,7 @@ Interference and Temporal Causality
 - Arweave: https://arweave.net/S8i1uAc0DiKmVp1nEUrDZ2VhXsiESYtEIHFINYC63Eg
 - Arweave: https://arweave.net/LUnCZfYsywbcOYcwVXdXDwHnYAZyA7iJgSw2J0ceueM
 - Date: March23,2026
-- Position:
+- Position:XVII
 
 ---
 
