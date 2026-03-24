@@ -19,7 +19,7 @@ Re-injectability
 - Arweave: https://arweave.net/F0C6eYZfJRsJJyrLfJ7TqvzrJ4Z527bTfeZQm0on0ak
 - Arweave: https://arweave.net/ojU1_Rf5dHBvl7pN4l8foMEszHrYZezSCjCzY4TQmOk
 - Date: March22,2026
-- Position:
+- Position:XVII
 
 ---
 
