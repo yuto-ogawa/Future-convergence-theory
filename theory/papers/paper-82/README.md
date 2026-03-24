@@ -15,7 +15,7 @@ Cognition Beyond Knowledge-Dependent Understanding—
 - Arweave: https://arweave.net/lP-lEpiKWZhqO3vypggvlcQg_j8UCkFyrD5b4i4e0oY
 - Arweave: https://arweave.net/XI_Mlualyqz4lVBmKaLqti376gAAgOoe5SQLi1euT80
 - Date: November 26, 2025
-- Position:
+- Position:XVII
 
 ---
 
