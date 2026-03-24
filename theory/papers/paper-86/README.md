@@ -14,7 +14,7 @@ Self-Non-Exceptionality, and Meaning-Tensor Formation---
 - Arweave: https://arweave.net/EKbkZjjr65jPWVF-75q2VoYyedrJnlUZ3FieEeSZJSQ
 - Arweave: https://arweave.net/wAFkIAbtuyg2KLxCn0Yut3KzXwzzSFPPbVNb40d-9gA
 - Date:March 23, 2026
-- - Position:
+- Position:XVII
 
 ---
 
