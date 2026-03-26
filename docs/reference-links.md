@@ -1079,3 +1079,18 @@ Interference and Temporal Causality)
 - https://doi.org/10.5281/zenodo.19192933
 - https://arweave.net/S8i1uAc0DiKmVp1nEUrDZ2VhXsiESYtEIHFINYC63Eg
 - https://arweave.net/LUnCZfYsywbcOYcwVXdXDwHnYAZyA7iJgSw2J0ceueM
+
+---
+
+## 未来収束理論における制約構造の再定義―位相切り取りと知覚拘束による生成プロセスの統一―
+
+(Redefinition of Constraint Structures in Future
+Convergence Theory
+— Unification of Generative Processes via Phase
+Selection and Perceptual Fixation —)
+
+
+- https://doi.org/10.5281/zenodo.19237872
+- https://arweave.net/9wn0X-vz-7ezWQ5NMd34Gpnxdkh_wKm2Yroyt0mBg2Q
+- https://arweave.net/wZDlHddFlgXuAFLh8QqMRXpzts8eXjL2pkcyaPQRsNE
+
