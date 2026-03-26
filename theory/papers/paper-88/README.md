@@ -1,7 +1,7 @@
-# Folder: Paper-89
+# Folder: Paper-88
 
 ## README.md
-# Paper 89
+# Paper 88
 
 ## Redefinition of Constraint Structures in Future
 Convergence Theory
