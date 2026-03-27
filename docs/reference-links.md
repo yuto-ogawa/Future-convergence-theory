@@ -1095,3 +1095,13 @@ Selection and Perceptual Fixation —)
 - https://app.ardrive.io/#/file/ec7c2ad3-530e-4bb9-b328-d102bfbe2521/view
 - https://arweave.net/Q6ZJhDtcrrUNtNEN6eAzHjtIVfy-it4Huf66v8YdMw8
 - https://arweave.net/F1fPZuMEna3PKO2DmDf9ENvmpOfFZc4eRauvkx98ycM
+
+---
+
+## 観測位相と臨界同時性の理論―未来収束理論における違和感・更新・構造遷移の統一記述―
+
+(Observation Phase and Critical Simultaneity — A
+Unified Description of Discomfort, Update, and
+Structural Transition in Future Convergence Theory —)
+
+- https://doi.org/10.5281/zenodo.19264271
