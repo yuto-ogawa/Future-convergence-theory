@@ -13,6 +13,8 @@ Selection and Perceptual Fixation —
 - Zenodo DOI: https://doi.org/10.5281/zenodo.19237872
 - Arweave:https://app.ardrive.io/#/file/223e2b3f-8369-4a0a-929e-6d9902b58a39/view
 - Arweave:https://app.ardrive.io/#/file/ec7c2ad3-530e-4bb9-b328-d102bfbe2521/view
+- Arweave:https://arweave.net/Q6ZJhDtcrrUNtNEN6eAzHjtIVfy-it4Huf66v8YdMw8
+- Arweave:https://arweave.net/F1fPZuMEna3PKO2DmDf9ENvmpOfFZc4eRauvkx98ycM
 - Date: March26,2026
 - Position:XVII
 
