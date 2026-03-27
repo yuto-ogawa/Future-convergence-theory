@@ -1093,3 +1093,5 @@ Selection and Perceptual Fixation —)
 - https://doi.org/10.5281/zenodo.19237872
 - https://app.ardrive.io/#/file/223e2b3f-8369-4a0a-929e-6d9902b58a39/view
 - https://app.ardrive.io/#/file/ec7c2ad3-530e-4bb9-b328-d102bfbe2521/view
+- https://arweave.net/Q6ZJhDtcrrUNtNEN6eAzHjtIVfy-it4Huf66v8YdMw8
+- https://arweave.net/F1fPZuMEna3PKO2DmDf9ENvmpOfFZc4eRauvkx98ycM
