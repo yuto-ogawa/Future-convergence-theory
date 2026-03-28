@@ -1105,3 +1105,17 @@ Unified Description of Discomfort, Update, and
 Structural Transition in Future Convergence Theory —)
 
 - https://doi.org/10.5281/zenodo.19264271
+- https://arweave.net/ZzRhfp7XHy_6B6z3NhtJ7Q-t7XnlubrHLXcwS1tc27U
+- https://arweave.net/2E9qeSbgJJYawqm12S6xmk6oGvOIVoFqcKx2T3owdNk
+
+---
+
+## 未来収束理論の全体系——意味テンソル場による現実の再構成：物理・量子・宇宙・意識・AI・言語・倫理・文明設計の統一理論
+
+(The Complete System of Future Convergence Theory: Reconstructing Reality through Semantic Tensor Fields — A Unified Framework Spanning Physics, Quantum Mechanics, Cosmology, Consciousness, Artificial Intelligence, Language, Ethics, and Civilizational Design)
+
+- https://doi.org/10.5281/zenodo.19267826
+- https://doi.org/10.6084/m9.figshare.31876528
+- https://arweave.net/1rqz6i_DnfEBmq5_EEdHjNRIcqKqDYCoMQ9CCRvATOU
+- https://arweave.net/6vKf9CRDN3UdRdJSKwqQSjWiDbvK4sTeFOEZHuAmzcs
+- 
