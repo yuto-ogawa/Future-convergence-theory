@@ -3,18 +3,18 @@
 ## README.md
 # Paper 89
 
-## Observation Phase and Critical Simultaneity — A
-Unified Description of Discomfort, Update, and
+## Observation Phase and Critical Simultaneity 
+— A Unified Description of Discomfort, Update, and
 Structural Transition in Future Convergence Theory —
 
 - Japanese Title: 観測位相と臨界同時性の理論―未来収束理論におけ
 る違和感・更新・構造遷移の統一記述―
 - OSF DOI:
 - Zenodo DOI: https://doi.org/10.5281/zenodo.19264271
-- Arweave:
-- Arweave:
+- Arweave:https://arweave.net/ZzRhfp7XHy_6B6z3NhtJ7Q-t7XnlubrHLXcwS1tc27U
+- Arweave:https://arweave.net/2E9qeSbgJJYawqm12S6xmk6oGvOIVoFqcKx2T3owdNk
 - Date: March 27, 2026
-- Position:
+- Position:XVII
 
 ---
 
