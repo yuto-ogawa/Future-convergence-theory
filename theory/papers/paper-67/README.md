@@ -11,7 +11,7 @@
 - Arweave: https://arweave.net/dXPIVx5Hs5CK874nN4nZMp4F33WqVGoPvbMEdoV3snU
 - Arweave: https://arweave.net/YxglWZB8jxU-XnbloZk4tYWqD1dsWdOxKVRZkq3jL9I
 - Date: November 12, 2025
-- Position: Phase XIII
+- Position: Phase XIV
 
 ---
 
