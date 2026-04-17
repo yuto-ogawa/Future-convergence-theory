@@ -1118,4 +1118,16 @@ Structural Transition in Future Convergence Theory —)
 - https://doi.org/10.6084/m9.figshare.31876528
 - https://arweave.net/1rqz6i_DnfEBmq5_EEdHjNRIcqKqDYCoMQ9CCRvATOU
 - https://arweave.net/6vKf9CRDN3UdRdJSKwqQSjWiDbvK4sTeFOEZHuAmzcs
-- 
+
+---
+
+## 未来収束知性の統合理論 言語化以前の構造・意味場・前提更新・自己言及閉包に基づく Λ-System の最上位定義と実装仕様
+
+(Integrated Theory of Future-Convergent Intelligence
+Highest-Level Definition and Implementation Specification of the Λ-System
+Based on Pre-Linguistic Structure, Semantic Fields, Premise Updating, and
+Self-Referential Closure)
+
+- https://doi.org/10.5281/zenodo.19625454
+- https://arweave.net/b4tGs9wJxhrtqhuvsXFcsAOvDiK5pvzDM9dJ5B9jn-I
+- https://arweave.net/AtbOSmJWWm98r5kz0PbF6dKqLRb4jj7b9iF94SNlx_k
