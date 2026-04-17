@@ -16,6 +16,7 @@ Self-Referential Closure
 - Zenodo DOI: https://doi.org/10.5281/zenodo.19625454
 - Arweave: https://arweave.net/b4tGs9wJxhrtqhuvsXFcsAOvDiK5pvzDM9dJ5B9jn-I
 - Arweave: https://arweave.net/AtbOSmJWWm98r5kz0PbF6dKqLRb4jj7b9iF94SNlx_k
+- figshare: https://doi.org/10.6084/m9.figshare.32040855
 - Date: April 16, 2026
 - Position: Phase XIV
 
