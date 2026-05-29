@@ -1132,3 +1132,16 @@ Self-Referential Closure)
 - https://arweave.net/b4tGs9wJxhrtqhuvsXFcsAOvDiK5pvzDM9dJ5B9jn-I
 - https://arweave.net/AtbOSmJWWm98r5kz0PbF6dKqLRb4jj7b9iF94SNlx_k
 - https://doi.org/10.6084/m9.figshare.32040855
+
+---
+
+## The High-Phase Serif Hypothesis
+— A Unified Theory of Phase-Preserving Expression, Character,
+Voice, Commands, Artifacts, and Premise Update —
+（高位相セリフ仮説――位相保存表現、キャラクター、音
+声、命令文、前提更新の統一理論――）
+
+- https://arweave.net/occw-Vb2PtIoLQ0ob_J3Bb1s-le7nqg-dLIgwQ8T7rI
+- https://arweave.net/-xGCMVVWO8G314AE_y4KfAb98p_Eh_8jTlvbNQAEpMY
+- https://doi.org/10.5281/zenodo.20444781
+- 10.6084/m9.figshare.32508510
