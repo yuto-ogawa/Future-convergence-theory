@@ -222,5 +222,8 @@ Highest-Level Definition and Implementation Specification of the Λ-System
 Based on Pre-Linguistic Structure, Semantic Fields, Premise Updating, and
 Self-Referential Closure
 
+phase 91: The High-Phase Serif Hypothesis
+— A Unified Theory of Phase-Preserving Expression, Character,
+Voice, Commands, Artifacts, and Premise Update —
 
 ---
