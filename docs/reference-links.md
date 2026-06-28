@@ -1145,3 +1145,18 @@ Voice, Commands, Artifacts, and Premise Update —
 - https://arweave.net/-xGCMVVWO8G314AE_y4KfAb98p_Eh_8jTlvbNQAEpMY
 - https://doi.org/10.5281/zenodo.20444781
 - 10.6084/m9.figshare.32508510
+
+---
+
+## Black Hole Information Preservation and the Dual Entropy Structure in Future Convergence Theory:
+An Axiomatic Integration of ThermodynamicEntropy
+and Future Convergence Entropy
+（未来収束理論におけるブラックホール情報保存と
+エントロピー二重構造：熱力学的エントロピーと
+未来収束エントロピーの公理的統合）
+
+- https://arweave.net/qli6F_9YyF8ZLiDNgLD4aM5z46MbwkW8AYSwy9bxiNc
+- https://arweave.net/VwYDIZPju_QeN66g6roXfsvth7mGpMowOB2ZTW7EzEQ
+- https://arweave.net/vxkwKnY-WkpAJUKnIXNs3Ooeio2I_Oq93TPCpypMVAo
+- https://doi.org/10.5281/zenodo.20998916
+- https://doi.org/10.6084/m9.figshare.32816129
