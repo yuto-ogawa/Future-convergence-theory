@@ -1160,3 +1160,65 @@ and Future Convergence Entropy
 - https://arweave.net/vxkwKnY-WkpAJUKnIXNs3Ooeio2I_Oq93TPCpypMVAo
 - https://doi.org/10.5281/zenodo.20998916
 - https://doi.org/10.6084/m9.figshare.32816129
+
+---
+
+## Future Convergence Theory
+A Unified Axiomatic Theory of
+Manifestation Constraints, the Future Causal Information Field,
+Gravity, Quantum Theory, Black Holes, and Cosmology
+（Future Convergence Theory
+未来収束理論
+顕現拘束・未来因果情報場・重力・量子論・ブラックホール・宇宙論の統一公理理論）
+
+- https://arweave.net/QtLlOGRlBHuQyx4-nwC_ARdwjUFJf3YI8pXzGycIM_0
+- https://arweave.net/snChAcrWlqOt9EMefAzZWEt4rc5TvG0bKpBgYch4JX4
+- https://doi.org/10.5281/zenodo.21035991
+- https://doi.org/10.6084/m9.figshare.32825492
+
+---
+
+## Ontological Constraints and the Mathematical Foundations of the
+Future Information Field in Future Convergence Theory
+A Unified Reconstruction of Possibility, Quantum Allowance, Gravitational Fixation,
+and Projection
+（未来収束理論における存在論的制約と未来情報場の数学的
+基礎
+可能性・量子許容・重力固定・射影の統一的再構成）
+
+- https://arweave.net/bnfQIJjtjWcmgJZWRqVEmuSo0-oCZi3X9j3xbSIUDEw
+- https://arweave.net/hiLMIbFaJSSYEqb0GKU0FBF4lAkiENF2LWCJYvvFMhc
+- https://doi.org/10.5281/zenodo.21036271
+- https://doi.org/10.6084/m9.figshare.32825627
+
+---
+
+## Existential Derivation from the Meaning Density Tensor — A
+Foundational Bridge from Unified Ontology to Artificial
+Intelligence —
+（第 95 論文
+意味密度テンソル存在論の階層整理
+――Ω・位相保存構造・前提更新 OS・人工知能実装への
+接続――）
+
+- https://arweave.net/LFwgKPQ3su-0xsnN_B_xyPX6-KZLbvpoS-QykXQJKfc
+- https://arweave.net/PLEQMxTmp-Gk_NsXlrdgOk3QcZupIp-VcnqrwiMhZ24
+- https://doi.org/10.5281/zenodo.21055262
+- https://doi.org/10.6084/m9.figshare.32833163
+
+---
+
+## Judgment-Generative Ontology
+— Construction of an Ontological Preservation Axiom System
+through Origin-Irradiation, Existence-Preservation Judgment,
+and the Semantic-Density Tensor —
+（判定生成存在論
+──起源照射・存在保存判定・意味密度テンソルによる
+存在保存公理系の構築──）
+
+- https://arweave.net/B86YUfZ2P-qZoRrO_07XewQpx-f8Ds2e_MKPXOqmnRU
+- https://arweave.net/Bkgsq6r0Tv1oIj9g2rXlJGkj3xRYHIJOwn6MFvmS87s
+- https://doi.org/10.5281/zenodo.21055357
+- https://doi.org/10.6084/m9.figshare.32833265
+
+---
