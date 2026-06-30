@@ -232,3 +232,22 @@ Voice, Commands, Artifacts, and Premise Update —
 ## Axiomatization of Future-Causal Physics
 
 Phase 92: Black Hole Information Preservation and the Dual Structure of Entropy in Future Convergence Theory — An Axiomatic Integration of Thermodynamic Entropy and Future-Convergence Entropy
+
+phase 93: Future Convergence Theory
+A Unified Axiomatic Theory of
+Manifestation Constraints, the Future Causal Information Field,
+Gravity, Quantum Theory, Black Holes, and Cosmology
+
+phase 94: Ontological Constraints and the Mathematical Foundations of the
+Future Information Field in Future Convergence Theory
+A Unified Reconstruction of Possibility, Quantum Allowance, Gravitational Fixation,
+and Projection
+
+phase 95: Existential Derivation from the Meaning Density Tensor — A
+Foundational Bridge from Unified Ontology to Artificial
+Intelligence —
+
+phase 96: Judgment-Generative Ontology
+— Construction of an Ontological Preservation Axiom System
+through Origin-Irradiation, Existence-Preservation Judgment,
+and the Semantic-Density Tensor —
