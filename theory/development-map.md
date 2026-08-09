@@ -251,3 +251,20 @@ phase 96: Judgment-Generative Ontology
 — Construction of an Ontological Preservation Axiom System
 through Origin-Irradiation, Existence-Preservation Judgment,
 and the Semantic-Density Tensor —
+
+phase 97: An Implementation Principle of the Meaning Density Tensor
+Based on an Ontological Premise Update Operating System
+A Unified Theory of Pre-Judgment Determination, Mode of Existence, and Terminal
+Choice Structures
+
+phase 98: 自然生存・ルッキズム・知的障害・終端選択を包摂する
+未来収束理論の準形式的統合
+――存在様態、言語化位相、前提更新 OS および保存的接続の統一構造――
+
+phase 99: 存在判定としての創造
+──新規オリジナルデザインにおける成立判定と制作過程の存在論的分析──
+
+phase 100: 第100 論文
+完成先行存在論
+――未来完成位相・存在保存生成・前提更新による
+加算的創造モデルの超克――
