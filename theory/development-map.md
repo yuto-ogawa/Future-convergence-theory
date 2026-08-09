@@ -229,7 +229,7 @@ Voice, Commands, Artifacts, and Premise Update —
 ---
 
 # Phase XVIII
-## Axiomatization of Future-Causal Physics
+## Axiomatization of Future-Causal Physics and Ontology
 
 Phase 92: Black Hole Information Preservation and the Dual Structure of Entropy in Future Convergence Theory — An Axiomatic Integration of Thermodynamic Entropy and Future-Convergence Entropy
 
