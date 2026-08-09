@@ -1223,10 +1223,7 @@ and the Semantic-Density Tensor —
 
 ---
 
-## An Implementation Principle of the Meaning Density Tensor
-Based on an Ontological Premise Update Operating System
-A Unified Theory of Pre-Judgment Determination, Mode of Existence, and Terminal
-Choice Structures
+## An Implementation Principle of the Meaning Density Tensor Based on an Ontological Premise Update Operating System A Unified Theory of Pre-Judgment Determination, Mode of Existence, and Terminal Choice Structures
 （存在論的前提更新OS に基づく意味密度テンソルの実装
 原理
 判断前判定・存在様態・終端選択構造の統合理論）
