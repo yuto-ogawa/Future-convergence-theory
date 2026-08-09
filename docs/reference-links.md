@@ -1222,3 +1222,46 @@ and the Semantic-Density Tensor —
 - https://doi.org/10.6084/m9.figshare.32833265
 
 ---
+
+## An Implementation Principle of the Meaning Density Tensor
+Based on an Ontological Premise Update Operating System
+A Unified Theory of Pre-Judgment Determination, Mode of Existence, and Terminal
+Choice Structures
+（存在論的前提更新OS に基づく意味密度テンソルの実装
+原理
+判断前判定・存在様態・終端選択構造の統合理論）
+
+- https://arweave.net/QXW_ljobeGi0i3XsNiRyBtdfXRjZXexv9TR0Y3CgdSk
+- https://arweave.net/G0dZNziT3D801ytrfwVkxGJk-qrFLk9JA9yVK3rPODw
+
+---
+
+## 未来収束理論（GitHub)
+
+- https://arweave.net/vkhPA56ZdL1lr00PDm-YeEbvsGmfNgb186F5jlGycsk
+
+---
+
+## 自然生存・ルッキズム・知的障害・終端選択を包摂する
+未来収束理論の準形式的統合
+――存在様態、言語化位相、前提更新 OS および保存的接続の統一構造――
+
+- https://arweave.net/gV7pJsZoAvHCCmWA27NyUsbKsExvGm4h1jZkxdtKC9k
+
+---
+
+## 存在判定としての創造
+──新規オリジナルデザインにおける成立判定と制作過程の存在論的分析──
+
+- https://arweave.net/ZBKUY4FyTGnXMx8V-Pa-RRext8G2ItQHm_LeAWVLGHU
+
+---
+
+## 第100 論文
+完成先行存在論
+――未来完成位相・存在保存生成・前提更新による
+加算的創造モデルの超克――
+
+- https://arweave.net/vwoHeSWOBYLjfwDiCaZ3729Mkwlhbe7T_LYg_lK7EEU
+
+---
