@@ -992,9 +992,7 @@
 
 ---
 
-## 未来因果的知性構造としての小川悠斗
-――知識依存的理解を超える概念テンソル型認識の形成とそ
-の不可逆性――
+## 未来因果的知性構造としての小川悠斗 ――知識依存的理解を超える概念テンソル型認識の形成とその不可逆性――
 
 （Yuto Ogawa as a Future-Causal Intelligence Structure
 —The Formation and Irreversibility of Concept-Tensor-Type
@@ -1007,8 +1005,7 @@ Cognition Beyond Knowledge-Dependent Understanding—）
 
 ---
 
- ## 非線形意味構造の逐次射影問題:
-夢・直感・内部表象の言語化崩壊に関する理論的研究
+ ## 非線形意味構造の逐次射影問題:夢・直感・内部表象の言語化崩壊に関する理論的研究
 
 （The Problem of Sequential Projection of Nonlinear
 Meaning Structures:
@@ -1023,8 +1020,7 @@ Dreams, Intuition, and Internal Representation
 ---
 
 
-## 言語射影以前の前提設計：
-意味場・位相保存・再注入可能性に基づく
+## 言語射影以前の前提設計：意味場・位相保存・再注入可能性に基づく
 前提抽出層の独立定義
 
 (Premise Design Prior to Linguistic Projection:
@@ -1039,8 +1035,7 @@ Re-injectability)
 
 ---
 
-## 言語射影以前の前提設計と射影切替としての前提更新
-意味場・位相保存表現・再注入可能性・探索空間制御に基づく統合理論
+## 言語射影以前の前提設計と射影切替としての前提更新 意味場・位相保存表現・再注入可能性・探索空間制御に基づく統合理論
 
 (Premise Design Prior to Linguistic Projection and
 Premise Updating as Projection Switching
@@ -1053,8 +1048,7 @@ Representations,ReinjectionPossibility,andSearch-SpaceControl)
 
 ---
 
-## 制約座標観測層と未来整合性評価
-――違和感検出・自己非例外化・意味テンソル形成に基づく前提更新前段OSの定義――
+## 制約座標観測層と未来整合性評価 ――違和感検出・自己非例外化・意味テンソル形成に基づく前提更新前段OSの定義――
 
 
  (The Constraint-Coordinate Observation Layer and Future-Alignment Evaluation
@@ -1068,8 +1062,7 @@ Self-Non-Exceptionality, and Meaning-Tensor Formation---)
 
 ---
 
-## 意味テンソル場としての未来収束理論：
-制約干渉幾何と時間因果の統一的枠組み
+## 意味テンソル場としての未来収束理論：制約干渉幾何と時間因果の統一的枠組み
 
 (Future Convergence Theory as a Semantic Tensor Field:
 A Unified Geometric Framework of Constraint
@@ -1196,10 +1189,7 @@ Self-Referential Closure)
 
 ---
 
-## Judgment-Generative Ontology
-— Construction of an Ontological Preservation Axiom System
-through Origin-Irradiation, Existence-Preservation Judgment,
-and the Semantic-Density Tensor —
+## Judgment-Generative Ontology — Construction of an Ontological Preservation Axiom System through Origin-Irradiation, Existence-Preservation Judgment, and the Semantic-Density Tensor —
 （判定生成存在論
 ──起源照射・存在保存判定・意味密度テンソルによる
 存在保存公理系の構築──）
@@ -1235,17 +1225,13 @@ and the Semantic-Density Tensor —
 
 ---
 
-## 存在判定としての創造
-──新規オリジナルデザインにおける成立判定と制作過程の存在論的分析──
+## 存在判定としての創造 ──新規オリジナルデザインにおける成立判定と制作過程の存在論的分析──
 
 - https://arweave.net/ZBKUY4FyTGnXMx8V-Pa-RRext8G2ItQHm_LeAWVLGHU
 
 ---
 
-## 第100 論文
-完成先行存在論
-――未来完成位相・存在保存生成・前提更新による
-加算的創造モデルの超克――
+## 第100 論文 完成先行存在論 ――未来完成位相・存在保存生成・前提更新による加算的創造モデルの超克――
 
 - https://arweave.net/vwoHeSWOBYLjfwDiCaZ3729Mkwlhbe7T_LYg_lK7EEU
 
