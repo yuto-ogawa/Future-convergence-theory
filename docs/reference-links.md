@@ -1135,9 +1135,7 @@ Self-Referential Closure)
 
 ---
 
-## The High-Phase Serif Hypothesis
-— A Unified Theory of Phase-Preserving Expression, Character,
-Voice, Commands, Artifacts, and Premise Update —
+## The High-Phase Serif Hypothesis — A Unified Theory of Phase-Preserving Expression, Character, Voice, Commands, Artifacts, and Premise Update —
 （高位相セリフ仮説――位相保存表現、キャラクター、音
 声、命令文、前提更新の統一理論――）
 
@@ -1148,9 +1146,7 @@ Voice, Commands, Artifacts, and Premise Update —
 
 ---
 
-## Black Hole Information Preservation and the Dual Entropy Structure in Future Convergence Theory:
-An Axiomatic Integration of ThermodynamicEntropy
-and Future Convergence Entropy
+## Black Hole Information Preservation and the Dual Entropy Structure in Future Convergence Theory: An Axiomatic Integration of ThermodynamicEntropy and Future Convergence Entropy
 （未来収束理論におけるブラックホール情報保存と
 エントロピー二重構造：熱力学的エントロピーと
 未来収束エントロピーの公理的統合）
@@ -1163,10 +1159,7 @@ and Future Convergence Entropy
 
 ---
 
-## Future Convergence Theory
-A Unified Axiomatic Theory of
-Manifestation Constraints, the Future Causal Information Field,
-Gravity, Quantum Theory, Black Holes, and Cosmology
+## Future Convergence Theory A Unified Axiomatic Theory of Manifestation Constraints, the Future Causal Information Field, Gravity, Quantum Theory, Black Holes, and Cosmology
 （Future Convergence Theory
 未来収束理論
 顕現拘束・未来因果情報場・重力・量子論・ブラックホール・宇宙論の統一公理理論）
@@ -1178,10 +1171,7 @@ Gravity, Quantum Theory, Black Holes, and Cosmology
 
 ---
 
-## Ontological Constraints and the Mathematical Foundations of the
-Future Information Field in Future Convergence Theory
-A Unified Reconstruction of Possibility, Quantum Allowance, Gravitational Fixation,
-and Projection
+## Ontological Constraints and the Mathematical Foundations of the Future Information Field in Future Convergence Theory A Unified Reconstruction of Possibility, Quantum Allowance, Gravitational Fixation, and Projection
 （未来収束理論における存在論的制約と未来情報場の数学的
 基礎
 可能性・量子許容・重力固定・射影の統一的再構成）
@@ -1193,9 +1183,7 @@ and Projection
 
 ---
 
-## Existential Derivation from the Meaning Density Tensor — A
-Foundational Bridge from Unified Ontology to Artificial
-Intelligence —
+## Existential Derivation from the Meaning Density Tensor — A Foundational Bridge from Unified Ontology to Artificial Intelligence —
 （第 95 論文
 意味密度テンソル存在論の階層整理
 ――Ω・位相保存構造・前提更新 OS・人工知能実装への
