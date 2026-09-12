@@ -1234,3 +1234,15 @@ Self-Referential Closure)
 - https://arweave.net/vwoHeSWOBYLjfwDiCaZ3729Mkwlhbe7T_LYg_lK7EEU
 
 ---
+
+## 未来収束理論（GitHub）
+
+- https://arweave.net/7rWJlEyeLZCOzJYt2tUgw26EVbV6-FZX6lIHIDTnhfE
+
+---
+
+## 状態イメージとしての創造
+――成立障壁の突破・存在保存・具体化による創造生成の普遍構造――
+
+- https://arweave.net/q88xlBQU52cX_Sjpcjnwu_Cp2FpmPPqUEyxmh-VHmcU
+
